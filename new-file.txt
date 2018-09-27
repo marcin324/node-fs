@@ -1,0 +1,1 @@
+tekst1.txt, tekst2.txt, tekst3.txt
